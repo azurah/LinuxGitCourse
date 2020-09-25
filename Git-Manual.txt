@@ -3,3 +3,4 @@ https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html
 https://git-scm.com/
 https://training.linuxfoundation.org/resources/webinars/introduction-to-git/
 https://training.linuxfoundation.org/cm/prep/talks/ESC.pdf
+https://git-scm.com/docs/
